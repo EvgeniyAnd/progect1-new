@@ -1,0 +1,19 @@
+@import url('../../blocks/lead/lead.css');
+@import url('../../blocks/lead/lead.css');
+@import url('../blocks/lead/__image/lead__image.css');
+@import url('../blocks/lead/__subtitel/leald__subtite.css');
+@import url('../blocks/lead/__titel/lead__titel.css');
+
+@import url('../blocks/intro/intro.css');
+@import url('../blocks/intro/__list/intro__list.css');
+@import url('../blocks/intro/intro__list__item/intro__list__item.css');
+@import url('../blocks/intro/__text/intro__text.css');
+@import url('../blocks/intro/__titel/intro__titel.css');
+
+
+
+@import url('../../blocks/body/body.css');
+@import url('../header/header.css');
+@import url('../header/__lang/header__lang.css');
+@import url('../header/__logo/header__logo.css');
+@import url('../page/page.css');
