@@ -1,7 +1,7 @@
 @import url('../blocks/lead/lead.css');
-@import url('../blocks/lead/__caption/lead__caption.css')
+@import url('../blocks/lead/__caption/lead__caption.css');
 @import url('../blocks/lead/__image/lead__image.css');
-@import url('../blocks/lead/__subtitel/leald__subtite.css');
+@import url('../blocks/lead/__subtite/lead__subtite.css');
 @import url('../blocks/lead/__titel/lead__titel.css');
 
 @import url('../blocks/intro/intro.css');
@@ -16,7 +16,7 @@
 @import url('../blocks/header/__logo/header__logo.css');
 @import url('../blocks/page/page.css');
 
-@import url('../blocks/photo__grid/photo__grid.css');
-@import url('../blocks/photo__grid/__grid__item/photo__grid__item.css');
+@import url('../blocks/photo/photo.css');
+@import url('../blocks/photo/__grid__item/photo__grid__item.css');
 
 
