@@ -30,4 +30,10 @@
 @import url('../blocks/plaecs/__block/__block1/block1__image.css');
 @import url('../blocks/plaecs/__block/__block1/__block2/block2.css');
 @import url('../blocks/plaecs/__block/__block1/__block2/block2__paragraph.css');
-@import url('../blocks/plaecs/__block/__block1/__block2/block2__paragraph1.css')
+@import url('../blocks/plaecs/__block/__block1/__block2/block2__paragraph1.css');
+
+@import url('../blocks/container/container.css');
+@import url('../blocks/container/container__image.css');
+@import url('../blocks/container/__centered/container__centered.css');
+@import url('../blocks/container/__centered/container__centered__cover.css');
+@import url('../blocks/container/__centered/container__centered__cover1.css');
