@@ -37,3 +37,6 @@
 @import url('../blocks/container/__centered/container__centered.css');
 @import url('../blocks/container/__centered/container__centered__cover.css');
 @import url('../blocks/container/__centered/container__centered__cover1.css');
+
+@import url('../blocks/link/link.css');
+@import url('../blocks/link/__copyringht/link__copyringht.css');
