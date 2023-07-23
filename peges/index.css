@@ -19,4 +19,15 @@
 @import url('../blocks/photo/photo.css');
 @import url('../blocks/photo/__grid__item/photo__grid__item.css');
 
-
+@import url('../blocks/plaecs/plaecs.css');
+@import url('../blocks/plaecs/__block/block.css');
+@import url('../blocks/plaecs/__block/block__titel.css');
+@import url('../blocks/plaecs/__block/__website/website.css');
+@import url('../blocks/plaecs/__block/__website/website__link.css');
+@import url('../blocks/plaecs/__block/__website/website__url__heading.css');
+@import url('../blocks/plaecs/__block/__website1/website1.css');
+@import url('../blocks/plaecs/__block/__block1/block1.css');
+@import url('../blocks/plaecs/__block/__block1/block1__image.css');
+@import url('../blocks/plaecs/__block/__block1/__block2/block2.css');
+@import url('../blocks/plaecs/__block/__block1/__block2/block2__paragraph.css');
+@import url('../blocks/plaecs/__block/__block1/__block2/block2__paragraph1.css')
