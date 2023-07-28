@@ -1,7 +1,9 @@
-.centered__cover1 {
+.centered-subtitle {
     position: relative;
     font-size: 18px;
     font-weight: 400;
     line-height: 22px;
     letter-spacing: 0em;
+    width: 302px;
+    margin: 36px auto;
 }

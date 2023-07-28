@@ -1,0 +1,8 @@
+.website {
+    display: flex;
+    flex-direction: column;
+    width: 456px;
+    height: 152px;
+    margin-top: 110px;
+     
+}
